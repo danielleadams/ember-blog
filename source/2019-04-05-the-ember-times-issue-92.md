@@ -1,6 +1,6 @@
 ---
 title: The Ember Times - Issue No. XX
-author: Lisa Huang-North, the crowd
+author: Lisa Huang-North, Danielle Adams, the crowd
 tags: Recent Posts, Newsletter, Ember.js Times, Ember Times, 2019
 alias : "blog/2019/xx/xx-the-ember-times-issue-XX.html"
 responsive: true
@@ -14,7 +14,7 @@ responsive: true
 
 ## [3 Reasons to Volunteer at a Tech Conference 💪🏼](https://medium.com/@lisaychuang/3-reasons-why-you-should-volunteer-at-a-tech-conference-19a0c81d1d8)
 
-[@lisaychuang](https://twitter.com/lisaychuang) shares her experience from this year’s EmberConf, and encourages newcomers in any tech community to attend a tech conference (and possibly volunteer!)   
+[@lisaychuang](https://twitter.com/lisaychuang) shares her experience from this year’s EmberConf, and encourages newcomers in any tech community to attend a tech conference (and possibly volunteer!)
 
 As a volunteer, you can get:
 * A warm welcome to the community
@@ -25,60 +25,59 @@ Curious to learn more? Check out her post on Medium: [3 reasons why you should v
 
 ---
 
-## [Section Title in Title Case 🐹](#section-url)
-<change section title emoji>
-<add your name to author list, top and bottom>
-<add blurb and emoji to "SOME-INTRO-HERE">
-  
+## [Reflecting on being a former noob 👶](https://medium.com/@adamzdanielle/reflecting-on-being-a-former-noob-d5e192907ae)
+
+Check out [@adamzdanielle](https://twitter.com/adamzdanielle)'s thoughts on what more experienced developers can do to help those newer to the industry.
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Section Title in Title Case 🐹](#section-url)
 <change section title emoji>
 <add your name to author list, top and bottom>
 <add blurb and emoji to "SOME-INTRO-HERE">
-  
+
 ---
 
 ## [Contributors' Corner 👏](https://guides.emberjs.com/release/contributing/repositories/)
@@ -100,7 +99,7 @@ Curious to learn more? Check out her post on Medium: [3 reasons why you should v
 
 ---
 
-## [#embertimes 📰](https://emberjs.com/blog/tags/newsletter.html) 
+## [#embertimes 📰](https://emberjs.com/blog/tags/newsletter.html)
 
 Want to write for the Ember Times? Have a suggestion for next week's issue? Join us at [#support-ember-times](https://discordapp.com/channels/480462759797063690/485450546887786506) on the [Ember Community Discord](https://discordapp.com/invite/zT3asNS) or ping us [@embertimes](https://twitter.com/embertimes) on Twitter.
 
@@ -112,4 +111,4 @@ That's another wrap! ✨
 
 Be kind,
 
-Lisa Huang-North, the crowd and the Learning Team
+Lisa Huang-North, Danielle Adams, the crowd and the Learning Team
